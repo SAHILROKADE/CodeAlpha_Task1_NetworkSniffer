@@ -35,5 +35,11 @@ This project is part of the **CodeAlpha Internship** and involves creating a bas
 ## 🚀 How to Run
 
 ### 1. Install Scapy:
-```bash
+bash
 pip install scapy
+ 
+### 2. Run the script with elevated permissions:
+bash
+python sniffer.py
+🛑 Press Ctrl + C to stop the packet capture.
+
